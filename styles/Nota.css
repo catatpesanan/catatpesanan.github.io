@@ -1,0 +1,18 @@
+.header , .footer{
+    text-align: center;
+}
+hr{
+    border: 1px dashed;
+}
+.plus{
+    text-align: right;
+}
+.gap{
+    margin-top: 10px;
+}
+h6,h4{
+    text-align: center;
+}
+.ok{
+    text-align: center;
+}
